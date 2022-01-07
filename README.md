@@ -1,4 +1,4 @@
 -Hi, I’m Sathvik! I'm also known as User319183.
 -I’m interested in coding.
--I know HTML, CSS, python, and JavaScript.
+-I know web design python, php, typescript and JavaScript.
 -Discord support server: https://discord.gg/ecz2z36gkB
