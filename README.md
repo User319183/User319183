@@ -14,11 +14,6 @@ My Discord: https://discord.com/users/831638031299117096
 ### My GitHub stats
 <img align="left" alt="User319183's Stats" src="https://github-readme-stats.vercel.app/api?username=User319183&show_icons=true&theme=radical">
 
-<!--   Top Languages Using -->
-### 👨‍💻 Top Languages Used*:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=User319183&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=User319183&theme=radical)
-
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
