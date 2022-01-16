@@ -12,4 +12,4 @@ My Discord: https://discord.com/users/831638031299117096
 
 
 ### My GitHub stats
-![User319183's GitHub stats](https://github-readme-stats.vercel.app/api?username=User319183&show_icons=true&theme=radical)
+<img align="left"![User319183's GitHub stats](https://github-readme-stats.vercel.app/api?username=User319183&show_icons=true&theme=radical)
