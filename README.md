@@ -9,3 +9,7 @@
 My Twitter: https://twitter.com/User_319183
 
 My Discord: https://discord.com/users/831638031299117096
+
+
+### My GitHub stats
+<img align="left" alt="User319183's Stats" src="https://github-readme-stats.vercel.app/api?username=User319183&show_icons=true&theme=dark">
